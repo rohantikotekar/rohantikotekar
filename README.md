@@ -9,6 +9,5 @@ AI Engineer and ML Researcher focused on:
 - Scalable MLOps & AI Infrastructure
 - Safe Teleoperation & Trustworthy Robotics
 - Autonomous Vehicles & Perception Pipelines
-- Industrial AI
 
 Python • PyTorch • LangChain • FastAPI • React • Docker • Kubernetes • AWS
