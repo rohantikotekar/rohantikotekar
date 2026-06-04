@@ -7,7 +7,7 @@ AI Engineer and ML Researcher focused on:
 - AI Agents, LLMs, and RAG Systems
 - Full-Stack AI Applications
 - Scalable MLOps & AI Infrastructure
-- Safe Teleoperation & Trustworthy Robotics
+- Safe Teleoperation & Trustworthy Robotics Manipulation
 - Autonomous Vehicles & Perception Pipelines
 
 Python • PyTorch • LangChain • FastAPI • React • Docker • Kubernetes • AWS
