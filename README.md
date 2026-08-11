@@ -1,4 +1,4 @@
-# Hi, I'm Rohan 👋
+# Hi, I'm Rohan
 
-### passionate about AI/ML and computer vision
+### I'm passionate about AI/ML and computer vision
 
